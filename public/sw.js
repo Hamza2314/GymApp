@@ -1,5 +1,5 @@
 const CACHE_NAME = "gym-tracker-v2";
-const OFFLINE_URL = "/";
+const OFFLINE_URL = "/GymApp/";
 
 self.addEventListener("install", (e) => {
   e.waitUntil(
